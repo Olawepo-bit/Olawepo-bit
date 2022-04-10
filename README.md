@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Olawepo-bit.
-- 👀 I’m interested in the A-Z of Data Analysis.
-- 🌱 I’m currently learning SQL, Python, R and improving my Tableau, Power BI and Microsoft Excel skills.
-- 💞️ I’m looking to collaborate on anything Data.
+- 👋 Hi, I’m Olawepo.
+- 👀 I am interested in the A-Z of Data Analysis.
+- 🌱 I am currently learning SQL, Python, R and improving my Tableau, Power BI and Microsoft Excel skills.
+- 💞️ I am looking to collaborate on anything Data.
 - 📫 You can reach me on nimat101.os@gmail.com with feedback, questions and ideas.
 
 <!---
